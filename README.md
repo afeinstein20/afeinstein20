@@ -11,6 +11,3 @@
 
 #### 📫 How to reach me: 
 - afeinstein[@]uchicago.edu
-
-#### ⚡ Fun fact:
-
