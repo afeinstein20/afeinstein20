@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Adina. I'm a PhD candidate at the University of Chicago trying to understand the interaction between baby stars and planets!
 
 
 #### 🔭 I’m currently working on 
