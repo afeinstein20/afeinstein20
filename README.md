@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Adina. I'm a PhD candidate at the University of Chicago trying to understand the interaction between baby stars and planets!
+I'm Adina. I'm a NASA Sagan Postdoctoral Fellow at the University of Colorado Boulder trying to understand the interaction between baby stars and planets!
 
 
 #### 🔭 I’m currently working on 
@@ -11,4 +11,4 @@ I'm Adina. I'm a PhD candidate at the University of Chicago trying to understand
 - Disentangling chemical signatures of a star from planet
 
 #### 📫 How to reach me: 
-- afeinstein[@]uchicago.edu
+- adina.feinstein[@]lasp.colorado.edu
