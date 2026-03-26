@@ -7,6 +7,7 @@ I'm Adina. I'm an Assistant Professor in the Department of Physics and Astronomy
 - [eleanor](https://adina.feinste.in/eleanor) -- a package for extracting high-precision light curves from NASA's Transiting Exoplanet Survey Satellite
 
 #### 📝 Open-Source and Reproducible Manuscripts
+- [Feinstein et al. (2025)](https://github.com/afeinstein20/atlas-tess) - Precovery of 3I/ATLAS from TESS Suggests Possible Distant Activity.
 - [Feinstein et al. (2024)](https://github.com/afeinstein20/young-stellar-flares) - Evolution of Flare Activity in GKM Stars Younger Than 300 Myr over Five Years of TESS Observations.
 - [Feinstein et al. (2023)](https://github.com/afeinstein20/wasp39b_niriss_paper) - Early Release Science of the exoplanet WASP-39b with JWST NIRISS.
 - [Feinstein et al. (2022b)](https://github.com/afeinstein20/v1298tau_tess) - V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e.
