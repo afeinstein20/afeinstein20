@@ -2,9 +2,9 @@
 I'm Adina. I'm an Assistant Professor in the Department of Physics and Astronomy at Michigan State University. My research aims to understand the interaction between baby stars and planets! In particular, I am using X-ray, UV, optical, and infrared observations of young stars and their planets to understand how planets evolve.
 
 #### 💾 Available Software Packages 
-- [nirHiss](https://github.com/afeinstein20/nirhiss) -- a package for reducing and extracting JWST NIRISS/SOSS Time Series observations
-- [stella](https://adina.feinste.in/stella/) -- a convolutional neural network framework to detect stellar flares in time-series photometry 
-- [eleanor](https://adina.feinste.in/eleanor) -- a package for extracting high-precision light curves from NASA's Transiting Exoplanet Survey Satellite
+- [nirHiss](https://github.com/afeinstein20/nirhiss) - a package for reducing and extracting JWST NIRISS/SOSS Time Series observations
+- [stella](https://adina.feinste.in/stella/) - a convolutional neural network framework to detect stellar flares in time-series photometry 
+- [eleanor](https://adina.feinste.in/eleanor) - a package for extracting high-precision light curves from NASA's Transiting Exoplanet Survey Satellite
 
 #### 📝 Open-Source and Reproducible Manuscripts
 - [Feinstein et al. (2025)](https://github.com/afeinstein20/atlas-tess) - Precovery of 3I/ATLAS from TESS Suggests Possible Distant Activity.
