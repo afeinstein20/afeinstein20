@@ -7,8 +7,11 @@ I'm Adina. I'm an Assistant Professor in the Department of Physics and Astronomy
 - [eleanor](https://adina.feinste.in/eleanor) -- a package for extracting high-precision light curves from NASA's Transiting Exoplanet Survey Satellite
 
 #### 📝 Open-Source and Reproducible Manuscripts
-- [Feinstein et al. (2022)](https://github.com/afeinstein20/cos_flares) - AU Microscopii in the Far-UV: Observations in Quies-
-cence, during Flares, and Implications for AU Mic b and c
+- [Feinstein et al. (2024)](https://github.com/afeinstein20/young-stellar-flares) - Evolution of Flare Activity in GKM Stars Younger Than 300 Myr over Five Years of TESS Observations.
+- [Feinstein et al. (2023)](https://github.com/afeinstein20/wasp39b_niriss_paper) - Early Release Science of the exoplanet WASP-39b with JWST NIRISS.
+- [Feinstein et al. (2022b)](https://github.com/afeinstein20/v1298tau_tess) - V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e.
+- [Feinstein et al. (2022a)](https://github.com/afeinstein20/cos_flares) - AU Microscopii in the Far-UV: Observations in Quiescence, during Flares, and Implications for AU Mic b and c.
+- [Feinstein et al. (2021)](https://zenodo.org/records/5196511) - H-alpha and Ca II Infrared Triplet Variations During a Transit of the 23 Myr Planet V1298 Tau c. 
 
 #### 🔭 I’m currently working on 
 - Characterizing stellar flares in the ultraviolet and infrared to understand their impacts on close-in exoplanets
